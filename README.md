@@ -23,6 +23,9 @@ This Matlab codes can be extended to a wide range of engineering problems.
 - Hung Nguyen-Xuan
 - Son Nguyen-Hoang
 
+# Funding Agency
+The Alexander von Humboldt Foundation and Vietnam National Foundation for Science and Technology Development (NAFOSTED) under grant number 107.02-2014.24 
+
 # References:
 H. Nguyen-Xuan, S. Nguyen-Hoang, T. Rabczuk, K. Hackl, A polytree-based adaptive approach to limit analysis of cracked structures, 
 Computer Methods in Applied Mechanics and Engineering, 313, 1006-1039, 2017.
